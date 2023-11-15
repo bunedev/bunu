@@ -1,0 +1,6 @@
+query getUser {
+  getUser(id: "9d554b1e-eae8-482e-8496-ec2e8216f0b8") {
+    id
+    name
+  }
+}
